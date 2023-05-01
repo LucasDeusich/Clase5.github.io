@@ -1,0 +1,41 @@
+.Days {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.Horarios-tabla {
+    font-style: italic;
+}
+
+.lun {
+    color: gold;
+}
+
+.mar {
+    color: red;
+}
+
+.mie {
+    color: blue;
+}
+
+.jue {
+    color: blueviolet;
+}
+
+.vie {
+    color: palevioletred;
+}
+
+.sab {
+    color: orangered;
+}
+
+.Mheader {
+    background-color: gold;
+}
+
+.Mfooter {
+    color: black;
+    background-color: gold;
+}
